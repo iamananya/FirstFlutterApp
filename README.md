@@ -1,4 +1,4 @@
-# ninjaid
+# Profile
 
 A new Flutter application.
 
